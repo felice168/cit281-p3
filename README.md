@@ -17,4 +17,4 @@ I would be creating a "coinage" code module that is capable of calculating the t
 
 ### Code
 
-Please click the **"View on Github"** buttom on the top of the page to see the project code
+Please click the **"View on Github"** buttom on the top of the page to see the project code and other works.
